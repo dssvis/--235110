@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euclid1", "Euclid1\Euclid1.csproj", "{70603ACD-5540-4974-8A59-F144CFF87514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclidConsoleApp", "EuclidConsoleApp\EuclidConsoleApp.csproj", "{EB3BC1C9-115E-41FE-A9D8-6DB73D7E950E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70603ACD-5540-4974-8A59-F144CFF87514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70603ACD-5540-4974-8A59-F144CFF87514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70603ACD-5540-4974-8A59-F144CFF87514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70603ACD-5540-4974-8A59-F144CFF87514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB3BC1C9-115E-41FE-A9D8-6DB73D7E950E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3BC1C9-115E-41FE-A9D8-6DB73D7E950E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3BC1C9-115E-41FE-A9D8-6DB73D7E950E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3BC1C9-115E-41FE-A9D8-6DB73D7E950E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E344C6-60D3-48B0-A6AA-7D5BB8D6145A}
+	EndGlobalSection
+EndGlobal
